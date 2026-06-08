@@ -10,7 +10,7 @@
 ```bash
 git https://github.com/Sriharsh007-Techie/ROS2-humble-kinova-gen3-teleoperation.git
 
-cd kortex_imu_moveit_servo_gen3
+cd ROS2-humble-kinova-gen3-teleoperation-main
 ```
 
 ### 2. Build the Docker Image
